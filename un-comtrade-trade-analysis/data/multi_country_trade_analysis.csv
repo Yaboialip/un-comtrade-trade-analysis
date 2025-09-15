@@ -1,0 +1,81 @@
+Country,Period,FlowDesc,PartnerDesc,TradeValue,CmdDesc,NetWgt
+USA,2022,Import,China,125000000,All commodities,1000000
+USA,2022,Import,Germany,110000000,All commodities,900000
+USA,2022,Import,Japan,95000000,All commodities,800000
+USA,2022,Import,Canada,80000000,All commodities,700000
+USA,2022,Import,Mexico,65000000,All commodities,600000
+USA,2022,Import,United Kingdom,50000000,All commodities,500000
+USA,2022,Import,South Korea,35000000,All commodities,400000
+USA,2022,Import,Italy,20000000,All commodities,300000
+USA,2022,Import,France,5000000,All commodities,200000
+USA,2022,Import,Netherlands,-10000000,All commodities,100000
+USA,2022,Export,China,95000000,All commodities,800000
+USA,2022,Export,Germany,85000000,All commodities,720000
+USA,2022,Export,Japan,75000000,All commodities,640000
+USA,2022,Export,Canada,65000000,All commodities,560000
+USA,2022,Export,Mexico,55000000,All commodities,480000
+USA,2022,Export,United Kingdom,45000000,All commodities,400000
+USA,2022,Export,South Korea,35000000,All commodities,320000
+USA,2022,Export,Italy,25000000,All commodities,240000
+USA,2022,Export,France,15000000,All commodities,160000
+USA,2022,Export,Netherlands,5000000,All commodities,80000
+China,2022,Import,China,125000000,All commodities,1000000
+China,2022,Import,Germany,110000000,All commodities,900000
+China,2022,Import,Japan,95000000,All commodities,800000
+China,2022,Import,Canada,80000000,All commodities,700000
+China,2022,Import,Mexico,65000000,All commodities,600000
+China,2022,Import,United Kingdom,50000000,All commodities,500000
+China,2022,Import,South Korea,35000000,All commodities,400000
+China,2022,Import,Italy,20000000,All commodities,300000
+China,2022,Import,France,5000000,All commodities,200000
+China,2022,Import,Netherlands,-10000000,All commodities,100000
+China,2022,Export,China,95000000,All commodities,800000
+China,2022,Export,Germany,85000000,All commodities,720000
+China,2022,Export,Japan,75000000,All commodities,640000
+China,2022,Export,Canada,65000000,All commodities,560000
+China,2022,Export,Mexico,55000000,All commodities,480000
+China,2022,Export,United Kingdom,45000000,All commodities,400000
+China,2022,Export,South Korea,35000000,All commodities,320000
+China,2022,Export,Italy,25000000,All commodities,240000
+China,2022,Export,France,15000000,All commodities,160000
+China,2022,Export,Netherlands,5000000,All commodities,80000
+Germany,2022,Import,China,125000000,All commodities,1000000
+Germany,2022,Import,Germany,110000000,All commodities,900000
+Germany,2022,Import,Japan,95000000,All commodities,800000
+Germany,2022,Import,Canada,80000000,All commodities,700000
+Germany,2022,Import,Mexico,65000000,All commodities,600000
+Germany,2022,Import,United Kingdom,50000000,All commodities,500000
+Germany,2022,Import,South Korea,35000000,All commodities,400000
+Germany,2022,Import,Italy,20000000,All commodities,300000
+Germany,2022,Import,France,5000000,All commodities,200000
+Germany,2022,Import,Netherlands,-10000000,All commodities,100000
+Germany,2022,Export,China,95000000,All commodities,800000
+Germany,2022,Export,Germany,85000000,All commodities,720000
+Germany,2022,Export,Japan,75000000,All commodities,640000
+Germany,2022,Export,Canada,65000000,All commodities,560000
+Germany,2022,Export,Mexico,55000000,All commodities,480000
+Germany,2022,Export,United Kingdom,45000000,All commodities,400000
+Germany,2022,Export,South Korea,35000000,All commodities,320000
+Germany,2022,Export,Italy,25000000,All commodities,240000
+Germany,2022,Export,France,15000000,All commodities,160000
+Germany,2022,Export,Netherlands,5000000,All commodities,80000
+Japan,2022,Import,China,125000000,All commodities,1000000
+Japan,2022,Import,Germany,110000000,All commodities,900000
+Japan,2022,Import,Japan,95000000,All commodities,800000
+Japan,2022,Import,Canada,80000000,All commodities,700000
+Japan,2022,Import,Mexico,65000000,All commodities,600000
+Japan,2022,Import,United Kingdom,50000000,All commodities,500000
+Japan,2022,Import,South Korea,35000000,All commodities,400000
+Japan,2022,Import,Italy,20000000,All commodities,300000
+Japan,2022,Import,France,5000000,All commodities,200000
+Japan,2022,Import,Netherlands,-10000000,All commodities,100000
+Japan,2022,Export,China,95000000,All commodities,800000
+Japan,2022,Export,Germany,85000000,All commodities,720000
+Japan,2022,Export,Japan,75000000,All commodities,640000
+Japan,2022,Export,Canada,65000000,All commodities,560000
+Japan,2022,Export,Mexico,55000000,All commodities,480000
+Japan,2022,Export,United Kingdom,45000000,All commodities,400000
+Japan,2022,Export,South Korea,35000000,All commodities,320000
+Japan,2022,Export,Italy,25000000,All commodities,240000
+Japan,2022,Export,France,15000000,All commodities,160000
+Japan,2022,Export,Netherlands,5000000,All commodities,80000
